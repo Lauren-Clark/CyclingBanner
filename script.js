@@ -4,7 +4,7 @@ var theAd = 0;
 var adURL = new Array("ladieswhogeek.org/lwg-blogs-fantomah-first-female-superhero/","cambriancomics.com/2018/02/26/golden-age-showcase-olga-mesmer/",
 	"comicvine.gamespot.com/the-shadow/4005-28923/","syfy.com/syfywire/firsts-mandrake-the-magician-was-the-worlds-first-comic-superhero",
 	"inverse.com/article/15443-zorro-was-the-first-american-cinematic-superhero-and-he-s-coming-back","comicvine.gamespot.com/the-phantom/4005-7957/");
-var adImages = new Array("images/fantomah2.jpg","images/olga1.jpg","images/shadow.jpg","images/mandrake.jpg","images/zorro.jpg","images/phantom.jpg");
+var adImages = new Array("fantomah2.jpg","olga1.jpg","shadow.jpg","mandrake.jpg","zorro.jpg","phantom.jpg");
 
 function initBannerLink() {
 if (document.getElementById("adBanner").parentNode.tagName == "A")
